@@ -1,4 +1,4 @@
-
+package com.mycompany.beecrownd1041;
 
 import java.util.Scanner;
 
